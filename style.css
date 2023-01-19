@@ -1,0 +1,123 @@
+body{
+  background:	hsl(185, 41%, 84%);
+}
+
+h1{
+  margin-bottom: 10px;
+}
+h3{
+  font-size: 20px;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+}
+h5{
+  font-size: 15px;
+  color: hsl(184, 14%, 56%);
+  font-family: 'Inter';
+  font-weight: 700;
+}
+h6{
+  font-size: 40px;
+  color: hsl(172, 67%, 45%);
+  margin-left: 80px;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+}
+a{
+  color: hsl(228, 45%, 44%);
+}
+#header{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;;
+}
+.inputs{
+  background-color: hsl(189, 41%, 97%);
+  border: 0px;
+  color: hsl(183, 100%, 15%);
+}
+.fInput{
+  font-size: 18px;
+  font-family: 'Space Mono', monospace;
+  font-weight:  400;
+  color: hsl(184, 14%, 56%);
+}
+.main{
+  align-items: center;
+  background-color: white;
+}
+.header-text{
+  color: hsl(183, 100%, 15%);
+  text-align: center;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+.bill-container{
+  padding-top: 5%;
+}
+.tip-container{
+  padding-top: 5%;
+}
+.count{
+  padding-top: 10%;
+}
+.total{
+  padding-top: 20px;
+}
+.first{
+  margin: 20px;
+}
+.second{
+  background-color:  hsl(183, 100%, 15%);
+  margin: 20px;
+}
+.second-box{
+  margin-left: 20px;
+}
+.five{
+  background-color: hsl(183, 100%, 15%);
+}
+.inlblck{
+display: inline-block;
+}
+.btn-dark{
+  margin-bottom: 10px;
+  margin-right: 5px;
+  border: 0;
+  width: 30%;
+  height: 50px;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+}
+.btn-secondary{
+  background-color: rgb(95,158,160);
+}
+.btn-dark:hover{
+  background-color: hsl(185, 41%, 84%);
+}
+.btn-dark:focus{
+  background-color: hsl(185, 41%, 84%);
+  color: hsl(183, 100%, 15%);
+}
+.roundedd{
+  border-radius: 1.25rem;
+}
+.button{
+  text-align: center;
+  margin-top: 15%;
+  background-color:  hsl(184, 14%, 56%);
+  color: hsl(186, 14%, 43%);
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+}
+.button:hover{
+  background-color: hsl(185, 41%, 84%);
+}
+.button:focus{
+  background-color: hsl(185, 41%, 84%);
+  color: hsl(183, 100%, 15%);
+}
